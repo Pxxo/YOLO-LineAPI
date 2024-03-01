@@ -18,7 +18,7 @@ from utils.torch_utils import select_device, load_classifier, time_synchronized
 from linebot import LineBotApi
 from linebot.models import TextSendMessage
 
-CHANNEL_ACCESS_TOKEN = "v1rhaUcdzDWwncg1aOmTlobyo9okulcS0pinmvqD660sRhVY4bsqSwc7MWYSPEcAWP3UT1DgRElIsBGLgm6wLNcEpf+CsrDww4iaPjwjsymH0W7mnqLPsOcb60Kvfd4l6QTXW2su7S+7e6N+dJ5TjQdB04t89/1O/w1cDnyilFU="
+CHANNEL_ACCESS_TOKEN = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 line_bot_api = LineBotApi(CHANNEL_ACCESS_TOKEN)
 ac = "no"
 
